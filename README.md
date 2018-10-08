@@ -3,17 +3,16 @@
 This is a simple demonstration of rails app where user can register on the webpage, add  their favourite author and bookname.
 
 
-Things you may want to cover:
+The application contains following features:
+* User can register, sign in and sign out.
 
-* Ruby version
+* Input authors and bookname.
 
-* System dependencies
+* Displays the content on home page.
 
-* Configuration
+* User can only create, edit and delete their own content.
 
-* Database creation
 
-* Database initialization
 
 * How to run the test suite
 
