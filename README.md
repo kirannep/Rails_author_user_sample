@@ -1,7 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a simple demonstration of rails app where user can register on the webpage, add  their favourite author and bookname.
+
 
 Things you may want to cover:
 
